@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
+data/documents/
+data/active_sources.json
+data/performance_logs.json
+.streamlit/secrets.toml
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
